@@ -1,2 +1,2 @@
 # Springboot
- Springboot practie repo
+Simple Springboot Application with the REST Requests(GET,POST,PUT,DELETE).
